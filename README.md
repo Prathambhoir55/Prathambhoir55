@@ -11,11 +11,11 @@
 
 - 💬 Ask me about **Django, Django Rest framework, Web-scraping, Machine Learning**
 
-- 📫 How to reach me **prthmbhr28@gmail.com**
+- 📫 How to reach me: Email - **prthmbhr28@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ydhqtopj6TVrdawwRJ4ShWUuOB5LFwaV/view?usp=share_link](https://drive.google.com/file/d/1ydhqtopj6TVrdawwRJ4ShWUuOB5LFwaV/view?usp=share_link)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1ydhqtopj6TVrdawwRJ4ShWUuOB5LFwaV/view?usp=share_link](https://drive.google.com/file/d/1ydhqtopj6TVrdawwRJ4ShWUuOB5LFwaV/view?usp=share_link)
 
-- ⚡ Fun fact **I am a huge fan of Motorcycles**
+- ⚡ Fun fact: **I am a huge fan of Motorcycles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
